@@ -1,14 +1,17 @@
-📕 About
+## 📕 About
 
-Com foco no jogo MMORPG Tibia, o tibia-api foi criado para jogadores obeterem detalhes das criaturas.
+Com foco no jogo MMORPG Tibia, o **tibia-api** foi criado para jogadores obeterem detalhes das criaturas.
 
-🔧 Tools
-Node
-React
-Axios
-react-router-dom
-styled-components
-♻ How Contribute
+## 🔧 Tools
+
+- [Node](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [Axio](https://axios-http.com/docs/intro)
+- [react-router-dom] react-router-dom
+- [styled-components](https://styled-components.com/)
+
+## ♻ How Contribute
+
 bash
 #clone the project
 $git clone git@github.com:pablorzenha/api-tibia.git
