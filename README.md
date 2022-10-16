@@ -1,3 +1,25 @@
+📕 About
+
+Com foco no jogo MMORPG Tibia, o tibia-api foi criado para jogadores obeterem detalhes das criaturas.
+
+🔧 Tools
+Node
+React
+Axios
+react-router-dom
+styled-components
+♻ How Contribute
+bash
+#clone the project
+$git clone git@github.com:pablorzenha/api-tibia.git
+bash
+#Enter directory
+$cd hamburgueria
+bash
+# Install the dependencies
+$npm install
+or
+$yarn
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
