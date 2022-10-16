@@ -9,17 +9,20 @@ export const ListCreatures = styled.ul`
   border-radius: 8px;
   width: 90%;
   overflow-y: auto;
+  padding: 12px;
+  justify-content: center;
 
   li {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 15%;
+    width: 10%;
     min-width: 150px;
     aspect-ratio: 1/1;
     text-align: center;
-
+    background: white;
+    border-radius: 10px;
     a {
       text-decoration: none;
       color: black;
