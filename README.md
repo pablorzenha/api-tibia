@@ -7,7 +7,7 @@ Com foco no jogo MMORPG Tibia, o **tibia-api** foi criado para jogadores obetere
 - [Node](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
 - [Axio](https://axios-http.com/docs/intro)
-- [react-router-dom] (https://api-tibia.vercel.app/)
+- [Router Dom] (https://api-tibia.vercel.app/)
 - [styled-components](https://styled-components.com/)
 
 ## ♻ How Contribute
