@@ -12,17 +12,26 @@ Com foco no jogo MMORPG Tibia, o **tibia-api** foi criado para jogadores obetere
 
 ## ♻ How Contribute
 
+```
 bash
 #clone the project
-$git clone git@github.com:pablorzenha/api-tibia.git
+$git clone git@github.com:pablorzenha/tibia-api.git
+```
+
+```
 bash
 #Enter directory
-$cd hamburgueria
+$cd tibia-api
+```
+
+```
 bash
 # Install the dependencies
 $npm install
 or
 $yarn
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
